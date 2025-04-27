@@ -2,6 +2,9 @@
 
 A RESTful API for service management and booking system.
 
+## Live Demo
+The application is hosted at: [https://kuteeram-tech.onrender.com/](https://kuteeram-tech.onrender.com/)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -10,6 +13,7 @@ A RESTful API for service management and booking system.
 - [Authentication](#authentication)
 - [Error Handling](#error-handling)
 - [Examples](#examples)
+- [License](#license)
 
 ## Prerequisites
 
@@ -21,7 +25,7 @@ A RESTful API for service management and booking system.
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/yourusername/Kuteeram-Tech.git
 cd Kuteeram-Tech
 ```
 
@@ -387,3 +391,6 @@ curl -X POST http://localhost:8001/api/bookings \
 - Error messages are generic to prevent information leakage
 - Authorization checks for service and booking operations
 - Rate limiting can be implemented for production 
+
+## License
+This project is open source and available under the [MIT License](LICENSE). 
