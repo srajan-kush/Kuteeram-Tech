@@ -25,7 +25,7 @@ The application is hosted at: [https://kuteeram-tech.onrender.com/](https://kute
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Kuteeram-Tech.git
+git clone https://github.com/srajan-kush/Kuteeram-Tech.git
 cd Kuteeram-Tech
 ```
 
